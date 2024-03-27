@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\bin\Debug\net8.0\SelectionStatementPractice.exe
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\bin\Debug\net8.0\SelectionStatementPractice.deps.json
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\bin\Debug\net8.0\SelectionStatementPractice.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\bin\Debug\net8.0\SelectionStatementPractice.dll
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\bin\Debug\net8.0\SelectionStatementPractice.pdb
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.dll
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\refint\SelectionStatementPractice.dll
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.pdb
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\ref\SelectionStatementPractice.dll
