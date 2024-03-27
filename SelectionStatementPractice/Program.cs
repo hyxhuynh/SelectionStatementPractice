@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             // EXERCISE 1
+            // The Random().Next(minValue, maxValue) method generates a random integer where minValue is inclusive, and maxValue is exclusive. 
             Random r = new Random();
             int favNumber = r.Next(1, 1000); // Generates a random number between 1 and 999
 
@@ -15,13 +16,17 @@
             {
                 Console.WriteLine("You guessed it!!!");
             }
-            else if (userInput > favNumber)
+            else if (userInput > favNumber && userInput <= 999)
             {
-                Console.WriteLine("Too high");
+                Console.WriteLine("Too high!");
+            }
+            else if (userInput < favNumber && userInput >= 1)
+            {
+                Console.WriteLine("Too low!");
             }
             else
             {
-                Console.WriteLine("Too low");
+                Console.WriteLine("Out of Range/ Invalid Number");
             }
 
             // EXERCISE 2

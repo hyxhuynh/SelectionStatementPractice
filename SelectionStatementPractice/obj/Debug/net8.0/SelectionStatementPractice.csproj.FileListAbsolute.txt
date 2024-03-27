@@ -12,3 +12,4 @@ C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractic
 C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.pdb
 C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.genruntimeconfig.cache
 C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\ref\SelectionStatementPractice.dll
+C:\HyHuynh\TrueCoders\repos\SelectionStatementPractice\SelectionStatementPractice\obj\Debug\net8.0\SelectionStatementPractice.sourcelink.json
